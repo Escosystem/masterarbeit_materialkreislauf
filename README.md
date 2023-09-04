@@ -5,7 +5,7 @@ von Marlón Escobar Saupe
 
 ## Links zu den Maps
 
-Materialkreislauf Causal Loop Map: ![[https://kumu.io/MES/clm-materialkreislauf-berlin](https://kumu.io/MES/clm-materialkreislauf-berlin))
+Materialkreislauf Causal Loop Map: ![https://kumu.io/MES/clm-materialkreislauf-berlin](https://kumu.io/MES/clm-materialkreislauf-berlin)
 
 
 
