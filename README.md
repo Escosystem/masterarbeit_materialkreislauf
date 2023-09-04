@@ -9,6 +9,6 @@ Materialkreislauf Causal Loop Map: ![kumu.io](https://kumu.io/MES/clm-materialkr
 
 Material Hub Causal Loop Map: in diesem Repository
 
-Gigamap Ist-Zustand: in diesem Repository
+Gigamap Ist-Zustand: ![in diesem Repository](https://github.com/Escosystem/masterarbeit_materialkreislauf/blob/main/maps/Gigamap_Ist-Zustand.pdf)
 
-Gigamap Soll-Zustand: in diesem Repository
+Gigamap Soll-Zustand: ![in diesem Repository](https://github.com/Escosystem/masterarbeit_materialkreislauf/blob/main/maps/Gigamap_Soll-Zustand.pdf)
