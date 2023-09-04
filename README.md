@@ -7,7 +7,7 @@ von Marlón Escobar Saupe
 
 Materialkreislauf Causal Loop Map: ![kumu.io](https://kumu.io/MES/clm-materialkreislauf-berlin)
 
-Material Hub Causal Loop Map: in diesem Repository
+
 
 Gigamap Ist-Zustand: ![in diesem Repository](https://github.com/Escosystem/masterarbeit_materialkreislauf/blob/main/maps/Gigamap_Ist-Zustand.pdf)
 
